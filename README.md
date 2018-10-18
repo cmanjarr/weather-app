@@ -1,0 +1,1 @@
+Simple Node Web Application to display the weather for the given city.
